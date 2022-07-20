@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![stars](https://github-readme-stats.vercel.app/api?username=turboyuu)
+[![stars](https://github-readme-stats.vercel.app/api?username=turboyuu)](https://github.com/turboYuu)
 
 <!---
 yutao-turbo/yutao-turbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
